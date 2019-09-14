@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jinoozahch.jexo.io/sitemap.xml
